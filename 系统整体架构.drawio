@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="xU1tOl_ABjSlMpWy9h0v">
-    <mxGraphModel dx="1766" dy="2163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1605" dy="2073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,8 +84,8 @@
         <mxCell id="8JO9a9_5uXJBhx2kIX-_-61" edge="1" parent="1" source="8JO9a9_5uXJBhx2kIX-_-39" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;fontColor=default;fontSize=36;horizontal=1;fontStyle=0;align=center;verticalAlign=middle;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;endFill=0;exitDx=0;exitDy=0;" target="8JO9a9_5uXJBhx2kIX-_-43" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1165" y="75" />
-              <mxPoint x="1525" y="75" />
+              <mxPoint x="1085" y="75" />
+              <mxPoint x="1513" y="75" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -132,6 +132,44 @@
         </mxCell>
         <mxCell id="8JO9a9_5uXJBhx2kIX-_-92" parent="1" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fontSize=36;horizontal=1;fontStyle=0;align=center;flipH=0;legacyAnchorPoints=0;verticalAlign=middle;" value="材&#xa;料&#xa;管&#xa;理" vertex="1">
           <mxGeometry height="262" width="68" x="1530" y="228" as="geometry" />
+        </mxCell>
+        <mxCell id="9FD5yFYECPP_rJJ9LDmn-10" edge="1" parent="1" source="9FD5yFYECPP_rJJ9LDmn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;fontSize=36;" target="9FD5yFYECPP_rJJ9LDmn-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1777" y="200" />
+              <mxPoint x="1816" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FD5yFYECPP_rJJ9LDmn-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fontSize=36;horizontal=1;fontStyle=0;align=center;flipH=0;legacyAnchorPoints=0;verticalAlign=middle;" value="考勤管理" vertex="1">
+          <mxGeometry height="54" width="170" x="1692" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="9FD5yFYECPP_rJJ9LDmn-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fontSize=36;horizontal=1;fontStyle=0;align=center;flipH=0;legacyAnchorPoints=0;verticalAlign=middle;" value="查看考勤" vertex="1">
+          <mxGeometry height="262" width="70" x="1692" y="228" as="geometry" />
+        </mxCell>
+        <mxCell id="9FD5yFYECPP_rJJ9LDmn-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fontSize=36;horizontal=1;fontStyle=0;align=center;flipH=0;legacyAnchorPoints=0;verticalAlign=middle;" value="上下班打卡" vertex="1">
+          <mxGeometry height="262" width="68" x="1782" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="9FD5yFYECPP_rJJ9LDmn-19" edge="1" parent="1" style="startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;fontColor=default;fontSize=36;horizontal=1;fontStyle=0;align=center;verticalAlign=middle;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;endFill=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="9FD5yFYECPP_rJJ9LDmn-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1085" y="24" />
+              <mxPoint x="1085" y="75" />
+              <mxPoint x="1777" y="75" />
+            </Array>
+            <mxPoint x="1080" y="24" as="sourcePoint" />
+            <mxPoint x="1826.2199999999998" y="170.00400000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FD5yFYECPP_rJJ9LDmn-21" edge="1" parent="1" source="9FD5yFYECPP_rJJ9LDmn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;fontSize=36;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="9FD5yFYECPP_rJJ9LDmn-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1777" y="200" />
+              <mxPoint x="1727" y="200" />
+            </Array>
+            <mxPoint x="1740" y="190" as="sourcePoint" />
+            <mxPoint x="1731" y="232" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
