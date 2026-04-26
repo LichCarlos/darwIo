@@ -130,7 +130,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8JO9a9_5uXJBhx2kIX-_-92" parent="1" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fontSize=36;horizontal=1;fontStyle=0;align=center;flipH=0;legacyAnchorPoints=0;verticalAlign=middle;" value="材&#xa;料&#xa;管&#xa;理" vertex="1">
+        <mxCell id="8JO9a9_5uXJBhx2kIX-_-92" parent="1" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fontSize=36;horizontal=1;fontStyle=0;align=center;flipH=0;legacyAnchorPoints=0;verticalAlign=middle;" value="订单查看" vertex="1">
           <mxGeometry height="262" width="68" x="1530" y="228" as="geometry" />
         </mxCell>
         <mxCell id="9FD5yFYECPP_rJJ9LDmn-10" edge="1" parent="1" source="9FD5yFYECPP_rJJ9LDmn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;fontSize=36;" target="9FD5yFYECPP_rJJ9LDmn-15">
