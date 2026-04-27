@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="xU1tOl_ABjSlMpWy9h0v">
-    <mxGraphModel dx="929" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1962" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,9 +51,6 @@
         </mxCell>
         <mxCell id="yh0mC4Lxo1U1yEmZ55sw-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=24;" value="重新输入&#xa;注册信息" vertex="1">
           <mxGeometry height="72" width="177" x="25.5" y="907" as="geometry" />
-        </mxCell>
-        <mxCell id="yh0mC4Lxo1U1yEmZ55sw-9" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=24;" value="结束" vertex="1">
-          <mxGeometry height="39" width="57" x="86" y="1062" as="geometry" />
         </mxCell>
         <mxCell id="yh0mC4Lxo1U1yEmZ55sw-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" value="创建User对象并设置默认角色/状态" vertex="1">
           <mxGeometry height="78" width="260" x="258" y="788" as="geometry" />
@@ -109,9 +106,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yh0mC4Lxo1U1yEmZ55sw-24" edge="1" parent="1" source="yh0mC4Lxo1U1yEmZ55sw-8" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.49;entryY=0.01;rounded=0;strokeWidth=2;fontSize=24;" target="yh0mC4Lxo1U1yEmZ55sw-9" value="">
+        <mxCell id="yh0mC4Lxo1U1yEmZ55sw-24" edge="1" parent="1" source="yh0mC4Lxo1U1yEmZ55sw-8" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.25;rounded=0;strokeWidth=2;fontSize=24;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="yh0mC4Lxo1U1yEmZ55sw-15" value="">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="113.9183673469388" y="1062" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yh0mC4Lxo1U1yEmZ55sw-25" edge="1" parent="1" source="yh0mC4Lxo1U1yEmZ55sw-6" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;fontSize=24;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" target="yh0mC4Lxo1U1yEmZ55sw-10" value="N">
