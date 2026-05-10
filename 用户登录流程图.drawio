@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="xU1tOl_ABjSlMpWy9h0v">
-    <mxGraphModel dx="973" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="757" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,9 +27,6 @@
             </Array>
             <mxPoint x="83" y="739.4999999999998" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ea55_T3Pz2kTjESgefyZ-38" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=26;" value="开始" vertex="1">
-          <mxGeometry height="39" width="57" x="438" y="780" as="geometry" />
         </mxCell>
         <mxCell id="ea55_T3Pz2kTjESgefyZ-39" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=26;" value="输入用户名&#xa;和密码" vertex="1">
           <mxGeometry height="70" width="190" x="370" y="850" as="geometry" />
@@ -73,9 +70,10 @@
         <mxCell id="ea55_T3Pz2kTjESgefyZ-54" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=26;" value="进入系统首页" vertex="1">
           <mxGeometry height="66" width="156" x="832" y="2250" as="geometry" />
         </mxCell>
-        <mxCell id="ea55_T3Pz2kTjESgefyZ-56" edge="1" parent="1" source="ea55_T3Pz2kTjESgefyZ-38" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=26;" target="ea55_T3Pz2kTjESgefyZ-39" value="">
+        <mxCell id="ea55_T3Pz2kTjESgefyZ-56" edge="1" parent="1" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=26;" target="ea55_T3Pz2kTjESgefyZ-39" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="465.92999999999984" y="819" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ea55_T3Pz2kTjESgefyZ-57" edge="1" parent="1" source="ea55_T3Pz2kTjESgefyZ-39" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=26;" target="ea55_T3Pz2kTjESgefyZ-40" value="">
@@ -154,6 +152,9 @@
         </mxCell>
         <mxCell id="RYaSCnIxC6hE7EaU8MEh-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;结束&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="308" y="2330" as="geometry" />
+        </mxCell>
+        <mxCell id="RYaSCnIxC6hE7EaU8MEh-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;开始&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="408" y="740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
