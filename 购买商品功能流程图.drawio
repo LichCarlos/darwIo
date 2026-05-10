@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="xU1tOl_ABjSlMpWy9h0v">
-    <mxGraphModel dx="2208" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1766" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="cNCSqmZ-hMyA3IYvSo7r-2" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=24;" value="开始" vertex="1">
           <mxGeometry height="39" width="57" x="308" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="cNCSqmZ-hMyA3IYvSo7r-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=24;" value="选择商品和数量&#xa;可含自定义材料" vertex="1">
+        <mxCell id="cNCSqmZ-hMyA3IYvSo7r-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=24;" value="输入商品和数量&#xa;可含自定义材料" vertex="1">
           <mxGeometry height="63" width="278" x="197" y="849" as="geometry" />
         </mxCell>
         <mxCell id="cNCSqmZ-hMyA3IYvSo7r-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" value="提交下单" vertex="1">
