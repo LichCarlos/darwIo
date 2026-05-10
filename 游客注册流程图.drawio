@@ -50,7 +50,7 @@
           <mxGeometry height="54" width="140" x="340" y="739" as="geometry" />
         </mxCell>
         <mxCell id="yh0mC4Lxo1U1yEmZ55sw-12" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=24;" value="写入成功?" vertex="1">
-          <mxGeometry height="124" width="124" x="352" y="820" as="geometry" />
+          <mxGeometry height="150" width="136" x="340" y="820" as="geometry" />
         </mxCell>
         <mxCell id="yh0mC4Lxo1U1yEmZ55sw-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" value="返回注册成功" vertex="1">
           <mxGeometry height="54" width="156" x="164.5" y="944" as="geometry" />
