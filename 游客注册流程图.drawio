@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="xU1tOl_ABjSlMpWy9h0v">
-    <mxGraphModel dx="2088" dy="1879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1563" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,10 +41,7 @@
           <mxGeometry height="186" width="187" x="157" y="430" as="geometry" />
         </mxCell>
         <mxCell id="yh0mC4Lxo1U1yEmZ55sw-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" value="返回用户名已存在" vertex="1">
-          <mxGeometry height="54" width="188" x="-44.5" y="600" as="geometry" />
-        </mxCell>
-        <mxCell id="yh0mC4Lxo1U1yEmZ55sw-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=24;" value="重新输入&#xa;注册信息" vertex="1">
-          <mxGeometry height="72" width="177" x="-44.5" y="730" as="geometry" />
+          <mxGeometry height="64" width="188" x="-150" y="360" as="geometry" />
         </mxCell>
         <mxCell id="yh0mC4Lxo1U1yEmZ55sw-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" value="创建用户对象并设置默认角色/状态" vertex="1">
           <mxGeometry height="78" width="260" x="280" y="610" as="geometry" />
@@ -86,17 +83,20 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yh0mC4Lxo1U1yEmZ55sw-22" edge="1" parent="1" source="yh0mC4Lxo1U1yEmZ55sw-6" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;fontSize=24;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" target="yh0mC4Lxo1U1yEmZ55sw-7" value="Y">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yh0mC4Lxo1U1yEmZ55sw-23" edge="1" parent="1" source="yh0mC4Lxo1U1yEmZ55sw-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;fontSize=24;entryDx=0;entryDy=0;" target="yh0mC4Lxo1U1yEmZ55sw-8" value="">
+        <mxCell id="yh0mC4Lxo1U1yEmZ55sw-22" edge="1" parent="1" source="yh0mC4Lxo1U1yEmZ55sw-6" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=1;rounded=0;strokeWidth=2;fontSize=24;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="yh0mC4Lxo1U1yEmZ55sw-7" value="Y">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="-56" y="523" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yh0mC4Lxo1U1yEmZ55sw-24" edge="1" parent="1" source="yh0mC4Lxo1U1yEmZ55sw-8" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.5;rounded=0;strokeWidth=2;fontSize=24;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="ACmaF-diYdVMlGBtmzIN-2" value="">
+        <mxCell id="yh0mC4Lxo1U1yEmZ55sw-23" edge="1" parent="1" source="yh0mC4Lxo1U1yEmZ55sw-7" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.5;rounded=0;strokeWidth=2;fontSize=24;entryDx=0;entryDy=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="yh0mC4Lxo1U1yEmZ55sw-2" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="1435.7500000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-56" y="141" />
+              <mxPoint x="122" y="141" />
+            </Array>
+            <mxPoint x="55" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yh0mC4Lxo1U1yEmZ55sw-25" edge="1" parent="1" source="yh0mC4Lxo1U1yEmZ55sw-6" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;fontSize=24;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" target="yh0mC4Lxo1U1yEmZ55sw-10" value="N">
