@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="xU1tOl_ABjSlMpWy9h0v">
-    <mxGraphModel dx="3350" dy="2589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2088" dy="1879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="yh0mC4Lxo1U1yEmZ55sw-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=24;" value="重新输入&#xa;注册信息" vertex="1">
           <mxGeometry height="72" width="177" x="-44.5" y="730" as="geometry" />
         </mxCell>
-        <mxCell id="yh0mC4Lxo1U1yEmZ55sw-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" value="创建User对象并设置默认角色/状态" vertex="1">
+        <mxCell id="yh0mC4Lxo1U1yEmZ55sw-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" value="创建用户对象并设置默认角色/状态" vertex="1">
           <mxGeometry height="78" width="260" x="280" y="610" as="geometry" />
         </mxCell>
         <mxCell id="yh0mC4Lxo1U1yEmZ55sw-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" value="写入数据库" vertex="1">
