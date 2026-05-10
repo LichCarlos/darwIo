@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="xU1tOl_ABjSlMpWy9h0v">
-    <mxGraphModel dx="3350" dy="1420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2029" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,9 +28,6 @@
             <mxPoint x="83" y="739.4999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ESPWlhoVhlfDtNz8US0N-1" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=24;" value="开始" vertex="1">
-          <mxGeometry height="39" width="57" x="127" y="20" as="geometry" />
-        </mxCell>
         <mxCell id="ESPWlhoVhlfDtNz8US0N-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" value="进入店员管理&#xa;并查询列表" vertex="1">
           <mxGeometry height="73" width="236" x="38" y="90" as="geometry" />
         </mxCell>
@@ -49,9 +46,6 @@
         <mxCell id="ESPWlhoVhlfDtNz8US0N-10" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=24;" value="删除店员?" vertex="1">
           <mxGeometry height="141.5" width="140" x="-340" y="850" as="geometry" />
         </mxCell>
-        <mxCell id="ESPWlhoVhlfDtNz8US0N-11" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=24;" value="结束" vertex="1">
-          <mxGeometry height="39" width="57" x="127.5" y="1260" as="geometry" />
-        </mxCell>
         <mxCell id="ESPWlhoVhlfDtNz8US0N-12" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=24;" value="是否&#xa;店长权限?" vertex="1">
           <mxGeometry height="156" width="156" x="77.5" y="440" as="geometry" />
         </mxCell>
@@ -61,9 +55,10 @@
         <mxCell id="ESPWlhoVhlfDtNz8US0N-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" value="没有管理&#xa;权限" vertex="1">
           <mxGeometry height="74" width="134" x="300" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="ESPWlhoVhlfDtNz8US0N-15" edge="1" parent="1" source="ESPWlhoVhlfDtNz8US0N-1" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=24;" target="ESPWlhoVhlfDtNz8US0N-2" value="">
+        <mxCell id="ESPWlhoVhlfDtNz8US0N-15" edge="1" parent="1" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=24;" target="ESPWlhoVhlfDtNz8US0N-2" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="155.49999999999977" y="59" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ESPWlhoVhlfDtNz8US0N-16" edge="1" parent="1" source="ESPWlhoVhlfDtNz8US0N-2" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=24;" target="ESPWlhoVhlfDtNz8US0N-3" value="">
@@ -86,11 +81,11 @@
             <mxPoint x="144" y="762" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ESPWlhoVhlfDtNz8US0N-20" edge="1" parent="1" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;;entryX=0.5;entryY=0;rounded=0;fontSize=24;entryDx=0;entryDy=0;" target="ESPWlhoVhlfDtNz8US0N-11" value="">
+        <mxCell id="ESPWlhoVhlfDtNz8US0N-20" edge="1" parent="1" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;;entryX=0.5;entryY=0;rounded=0;fontSize=24;entryDx=0;entryDy=0;" target="EASHi4AVObJc-O0qF9Bz-2" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="160.67924528301864" y="839.9999999999998" as="sourcePoint" />
-            <mxPoint x="152" y="960" as="targetPoint" />
+            <mxPoint x="155.99999999999977" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ESPWlhoVhlfDtNz8US0N-21" edge="1" parent="1" source="ESPWlhoVhlfDtNz8US0N-5" style="startArrow=none;endArrow=block;strokeWidth=2;;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontSize=24;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="ESPWlhoVhlfDtNz8US0N-8" value="N">
@@ -104,12 +99,13 @@
         <mxCell id="ESPWlhoVhlfDtNz8US0N-24" edge="1" parent="1" source="ESPWlhoVhlfDtNz8US0N-8" style="startArrow=none;endArrow=block;strokeWidth=2;;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontSize=24;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="ESPWlhoVhlfDtNz8US0N-10" value="N">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ESPWlhoVhlfDtNz8US0N-26" edge="1" parent="1" source="ESPWlhoVhlfDtNz8US0N-10" style="startArrow=none;endArrow=block;strokeWidth=2;;exitX=0;exitY=0.5;entryX=0;entryY=0.75;rounded=0;fontSize=24;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="ESPWlhoVhlfDtNz8US0N-11" value="N">
+        <mxCell id="ESPWlhoVhlfDtNz8US0N-26" edge="1" parent="1" source="ESPWlhoVhlfDtNz8US0N-10" style="startArrow=none;endArrow=block;strokeWidth=2;;exitX=0;exitY=0.5;rounded=0;fontSize=24;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EASHi4AVObJc-O0qF9Bz-2" value="N">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-380" y="921" />
-              <mxPoint x="-380" y="1289" />
+              <mxPoint x="-380" y="1290" />
             </Array>
+            <mxPoint x="-40" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ESPWlhoVhlfDtNz8US0N-28" edge="1" parent="1" source="ESPWlhoVhlfDtNz8US0N-10" style="startArrow=none;endArrow=block;strokeWidth=2;;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;fontSize=24;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="ESPWlhoVhlfDtNz8US0N-13" value="Y">
@@ -122,13 +118,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ESPWlhoVhlfDtNz8US0N-30" edge="1" parent="1" source="ESPWlhoVhlfDtNz8US0N-13" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;;exitX=0.5;exitY=0.99;entryX=0;entryY=0.25;rounded=0;fontSize=24;entryDx=0;entryDy=0;" target="ESPWlhoVhlfDtNz8US0N-11" value="">
+        <mxCell id="ESPWlhoVhlfDtNz8US0N-30" edge="1" parent="1" source="ESPWlhoVhlfDtNz8US0N-13" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;;exitX=0.5;exitY=0.99;entryX=0.042;entryY=0.333;rounded=0;fontSize=24;entryDx=0;entryDy=0;entryPerimeter=0;" target="EASHi4AVObJc-O0qF9Bz-2" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="127.49999999999977" y="1269.7499999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ESPWlhoVhlfDtNz8US0N-31" edge="1" parent="1" source="ESPWlhoVhlfDtNz8US0N-14" style="startArrow=none;endArrow=block;strokeWidth=2;;exitX=0.5;exitY=0.99;entryX=0.99;entryY=0.3;rounded=0;fontSize=24;edgeStyle=orthogonalEdgeStyle;" target="ESPWlhoVhlfDtNz8US0N-11" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ESPWlhoVhlfDtNz8US0N-31" edge="1" parent="1" source="ESPWlhoVhlfDtNz8US0N-14" style="startArrow=none;endArrow=block;strokeWidth=2;;exitX=0.5;exitY=0.99;entryX=1;entryY=0.5;rounded=0;fontSize=24;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="EASHi4AVObJc-O0qF9Bz-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="184.5" y="1271.5408163265306" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fWyU2cjDLUavitZ7oShu-3" edge="1" parent="1" source="ESPWlhoVhlfDtNz8US0N-12" style="startArrow=none;endArrow=block;strokeWidth=2;;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontSize=24;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="ESPWlhoVhlfDtNz8US0N-5" value="">
           <mxGeometry relative="1" as="geometry">
@@ -136,14 +135,22 @@
             <mxPoint x="-188" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fWyU2cjDLUavitZ7oShu-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;新增&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;店员信息&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="fWyU2cjDLUavitZ7oShu-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;输入新增&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;店员信息&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="152" x="78" y="780" as="geometry" />
         </mxCell>
-        <mxCell id="fWyU2cjDLUavitZ7oShu-6" edge="1" parent="1" source="fWyU2cjDLUavitZ7oShu-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" target="ESPWlhoVhlfDtNz8US0N-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fWyU2cjDLUavitZ7oShu-6" edge="1" parent="1" source="fWyU2cjDLUavitZ7oShu-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.258;entryY=0.1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;entryPerimeter=0;" target="EASHi4AVObJc-O0qF9Bz-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="141.74999999999977" y="1260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="fWyU2cjDLUavitZ7oShu-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;修改&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;店员信息&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="fWyU2cjDLUavitZ7oShu-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;输入修改&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;店员&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;信息&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="152" x="-86.5" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="EASHi4AVObJc-O0qF9Bz-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=24;" value="开始" vertex="1">
+          <mxGeometry height="80" width="120" x="95.5" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="EASHi4AVObJc-O0qF9Bz-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=24;" value="开始" vertex="1">
+          <mxGeometry height="80" width="120" x="78" y="1250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
