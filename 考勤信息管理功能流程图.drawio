@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N9qoIKC6mY_wGNStZhZr-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;" value="店员发起上班打卡" vertex="1">
-          <mxGeometry height="71" width="188" x="115" y="489" as="geometry" />
+          <mxGeometry height="71" width="255" x="81.5" y="489" as="geometry" />
         </mxCell>
         <mxCell id="N9qoIKC6mY_wGNStZhZr-4" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=24;" value="打卡规则&#xa;校验通过?" vertex="1">
           <mxGeometry height="188" width="188" x="115" y="697" as="geometry" />
