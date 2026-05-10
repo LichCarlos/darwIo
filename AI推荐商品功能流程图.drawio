@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="xU1tOl_ABjSlMpWy9h0v">
-    <mxGraphModel dx="1858" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2920" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,7 +150,7 @@
         <mxCell id="PsXEkpn245pW2tnf2YA9-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=24;" value="开始" vertex="1">
           <mxGeometry height="80" width="120" x="251" y="570" as="geometry" />
         </mxCell>
-        <mxCell id="PsXEkpn245pW2tnf2YA9-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=24;" value="开始" vertex="1">
+        <mxCell id="PsXEkpn245pW2tnf2YA9-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=24;" value="结束" vertex="1">
           <mxGeometry height="80" width="120" x="368" y="2060" as="geometry" />
         </mxCell>
       </root>
